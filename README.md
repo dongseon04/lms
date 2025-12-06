@@ -252,23 +252,31 @@ lms/
 
 ### 로그인
 ![로그인](ex/로그인.png)
+<img width="640" height="732" alt="image" src="https://github.com/user-attachments/assets/04b72dda-fea4-409c-8a81-473d8c9f9f5b" />
 
 ### 메인 페이지
+<img width="1878" height="881" alt="image" src="https://github.com/user-attachments/assets/8788f23d-1caa-475a-a525-2350cff1c84d" />
+
 ![메인 페이지](ex/메인%20페이지(1).png)
 ![메인 페이지 2](ex/메인%20페이지(2).png)
 
-### 강좌 페이지
+### 강좌 관리
 ![강좌 목록](ex/강좌%20페이지.png)
+<img width="1512" height="843" alt="image" src="https://github.com/user-attachments/assets/8771b37d-7fa3-4f43-979d-c9ccbdbebed2" />
+
 ![강의 자료](ex/강좌%20페이지%20-%20강좌%20보기(강의%20자료).png)
 ![과제](ex/강좌%20페이지%20-%20강좌%20보기(과제).png)
 ![토론](ex/강좌%20페이지%20-%20강좌%20보기(토론).png)
 
-### 분석 및 리포트
+### 멘토링 관리
 ![분석 1](ex/분석%20및%20리포트(1).png)
 ![분석 2](ex/분석%20및%20리포트(2).png)
+<img width="1586" height="443" alt="image" src="https://github.com/user-attachments/assets/764098d5-67d4-46cc-9afb-86ef76eaff61" />
+
 
 ### 사용자 관리
 ![사용자 관리](ex/사용자%20관리%20페이지.png)
+<img width="1552" height="717" alt="image" src="https://github.com/user-attachments/assets/fc234d1a-7f4e-4a03-a9e5-d9c4a02f9237" />
 
 ### 프로필
 ![프로필](ex/프로필.png)
